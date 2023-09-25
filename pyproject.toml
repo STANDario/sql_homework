@@ -1,0 +1,15 @@
+[tool.poetry]
+name = "hometask-goit"
+version = "0.1.0"
+description = ""
+authors = ["Andrii Stoian <astoyan2002@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.11"
+faker = "^19.6.2"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
